@@ -1,0 +1,29 @@
+html {
+    color: #000;
+}
+
+body {
+    background-image: url(../img/bg.jpg);
+}
+
+.form {
+    margin-top: 20vh;
+}
+
+.bg-hf {
+    background: linear-gradient(90deg, rgb(0, 68, 255) 0%, rgba(0, 175, 203, 1) 83%);
+}
+
+nav .bg-hf {
+    height: 8vh;
+
+
+}
+
+.calc-btn {
+    background: linear-gradient(90deg, rgb(0, 68, 255) 0%, rgba(0, 175, 203, 1) 83%);
+}
+
+.calc-btn:hover {
+    background: linear-gradient(90deg, rgb(0, 68, 255) 0%, rgba(0, 175, 203, 1) 20%);
+}
